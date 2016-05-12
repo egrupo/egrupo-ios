@@ -1,4 +1,4 @@
-# egrupo-android
+# egrupo-ios
 Aplicação ios para o egrupo.
 
 ## Info
